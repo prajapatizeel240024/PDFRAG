@@ -1,4 +1,4 @@
-# PDF Conversational AI with LangChain and FAISS
+# PDF Conversational AI with LangChain and FAISS  
 
 ![image](https://github.com/user-attachments/assets/e0985bb6-83fd-441c-a56a-e4fe7b03b917)
 
